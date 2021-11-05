@@ -1,7 +1,7 @@
 # Luxury Groups stock market listing & Luxury brands Google trends
 Julie Le Bousse & Anh Nguyen
 ## Content
-[Description]
+[Description](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#description)
 [Dataset]
 [Workflow]
 [Challenges]
