@@ -3,7 +3,7 @@ Julie Le Bousse & Anh Nguyen
 ## Content
 - [Description](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#description)
 - [Dataset](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#dataset)
-- [Workflow](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#dworkflow)
+- [Workflow](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#workflow)
 - [Insight]
 - [Delivrables](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#delivrables)
 
