@@ -2,11 +2,10 @@
 Julie Le Bousse & Anh Nguyen
 ## Content
 - [Description](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#description)
-- [Dataset]
-- [Workflow]
-- [Challenges]
+- [Dataset](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#dataset)
+- [Workflow](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#dworkflow)
 - [Insight]
-- [Delivrables]
+- [Delivrables](https://github.com/anhfrenay/luxury_brand_trends/blob/main/README.md#delivrables)
 
 ## Description
 In this project, we were trying to find the link between Google searches on the most notorious French luxury brands and the stock marlet listing price of the related luxury groups.
@@ -22,6 +21,30 @@ We use multiple datasets but only 2 types :
 - API from Google : pytrends (documentation [here](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f))
 
 ## Workflow
+Our project can be divided into different phases  :
+
+**Phase 1** : Define the subject and planning for the project
+- Look for an interesting topic
+- Research to see if there open data available
+- Get validated by the Lead Teacher
+- Define timeline for each deadline of the project and split the taskload between team members (create Trello to follow the timeline)
+
+**Phase 2** : Looking and trying to get the datasets
+Our initial idea were : Finding correlation between vintage luxury offer prices from websites like Vinted or Vestiaire Collective and the brands' hashtags on Instagram
+However data on Vestiaire Collective and Instagram were very complicated
+- Vestiaire Collective doesn't allow scraping on their website
+- Instagram API to get posts from a certain hashtag is possible but not when it's a popular hashtag (Ex: #LouisVuitton has 47 millions posts) and Instagram will block the request after a certain time.
+
+**Phase 3** : Facing the challenges and changing our strategy
+After spending a lot of time to reseach and work on the initial idea, we decided to change our topic
+Stock market listing price is easy to find and we can get the data in csv format.
+Google searches data is possible to get with the Google API pytrends
+
+**Phase 4** : Coding in Python to obtain the data from the 2 sources for each brand/group
+
+**Phase 5** : Creating the database using jointure through SQL and calculating some statistics
+
+**Phase 6** : Working on our Github repository and presentation slides
 
 
 ## Delivrables
