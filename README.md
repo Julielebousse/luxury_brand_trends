@@ -48,9 +48,13 @@ Google searches data is possible to get with the Google API pytrends
 
 ## Insights
 We calculated the correlation coefficient between Google trend data and Stock market listing price of the three groups and compare the coefficients between them.
+
 As expected, the correlation is positive, meaning that the more people search on a brand the more likely the groups stocking price is going up
+
 However, the correlation between Google trends data and Stock market listing price is not the same between three groups. LVMH’s stocking price seems to be more correlated to the Google trends.
+
 This could be explained by the fact that we took the 2 most know brands from LVMH and Kering but there are more brands that can affect the stocking price of the group (Saint Laurent, Balenciaga for Kering for example)
+
 However, the same explication is not applicable to Hermes since the group only has one brand. We will need to find data from social medias since they are the real platforms where consumers of luxury goods express their interest.
 
 ## Delivrables
