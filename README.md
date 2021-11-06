@@ -30,15 +30,16 @@ Our project can be divided into different phases  :
 - Define timeline for each deadline of the project and split the taskload between team members (create Trello to follow the timeline)
 
 **Phase 2** : Looking and trying to get the datasets
-Our initial idea were : Finding correlation between vintage luxury offer prices from websites like Vinted or Vestiaire Collective and the brands' hashtags on Instagram
-However data on Vestiaire Collective and Instagram were very complicated
+
+Our initial idea was to find correlation between vintage luxury prices from websites like Vinted or Vestiaire Collective and the brands' hashtags on Instagram.
+
+However data on Vestiaire Collective and Instagram were very complicated to get 
 - Vestiaire Collective doesn't allow scraping on their website
 - Instagram API to get posts from a certain hashtag is possible but not when it's a popular hashtag (Ex: #LouisVuitton has 47 millions posts) and Instagram will block the request after a certain time.
 
 **Phase 3** : Facing the challenges and changing our strategy
-After spending a lot of time to reseach and work on the initial idea, we decided to change our topic
-Stock market listing price is easy to find and we can get the data in csv format.
-Google searches data is possible to get with the Google API pytrends
+
+After spending a lot of time to reseach and work on the initial idea, we decided to change our topic. Stock market listing price is easy to find and we can get the data in csv format. Google searches data is possible to get with the Google API pytrends
 
 **Phase 4** : Coding in Python to obtain the data from the 2 sources for each brand/group
 
