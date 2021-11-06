@@ -58,6 +58,10 @@ This could be explained by the fact that we took the 2 most known brands from LV
 
 However, the same explication is not applicable to Hermes since the group only has one brand. We will need to find data from social medias since they are the real platforms where consumers of luxury goods express their interest.
 
+We also calculated the average stocking price and the standard variation for each brand. We concluded that Hermes got the highest price in 2020 but also has biggest variations in the prices. Louis Vuitton has the lowest price and their prices remain more stable than the other brands.
+
+In terms of trends, there are some peaks for Gucci (Sept 2020) and Hermes (October-December 2020), Louis Vuitton is however globally the most famous brand on Google in 2020.
+
 ## Delivrables
 - [Presentation slides](https://docs.google.com/presentation/d/1uAlIWsiG8aCCxZidgZiFtRdCZoaXaIYV/edit?usp=sharing&ouid=105534248596026120360&rtpof=true&sd=true)
 - [Github repository](https://github.com/anhfrenay/luxury_brand_trends)
